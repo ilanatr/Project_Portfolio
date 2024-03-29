@@ -16,3 +16,5 @@ The file Data_Filtering_Organising includes three key user-defined functions:
 **File: RPS - Rock Paper Scissors Game**
 
 Programme that plays the rock, paper, scissors game which seeks input from the user and a random choice from the computer to determine a winner.
+
+Utilises exception handling to highlight input (value) errors.
