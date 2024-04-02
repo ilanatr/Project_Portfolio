@@ -18,3 +18,8 @@ The file Data_Filtering_Organising includes three key user-defined functions:
 Programme that plays the rock, paper, scissors game which seeks input from the user and a random choice from the computer to determine a winner.
 
 Utilises exception handling to highlight input (value) errors.
+
+**File: data_viz_task**
+
+Simple data visualisation task to explore different car characteristics by manufacturer.
+Includes boxplots, histograms, lineplots and barplots.
