@@ -23,3 +23,8 @@ Utilises exception handling to highlight input (value) errors.
 
 Simple data visualisation task to explore different car characteristics by manufacturer.
 Includes boxplots, histograms, lineplots and barplots.
+
+**File: analyse_cust_data_sql.sql**
+
+Analysis of the SQL Lite Sakila database which includes data on DVD rental stores globally.
+The SQL file implements queries to create and read the database in order to calculate information such as total payments and average payment information.
