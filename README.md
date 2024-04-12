@@ -28,3 +28,8 @@ Includes boxplots, histograms, lineplots and barplots.
 
 Analysis of the SQL Lite Sakila database which includes data on DVD rental stores globally.
 The SQL file implements queries to create and read the database in order to calculate information such as total payments and average payment information.
+
+**File: Data_Stats_and_Data_Viz Tool**
+
+A tool that computes descriptive statistics for a dataset on CO2 emissions by countries and visualizes these statistics through various charts and graphs. 
+The tool helps in understanding the distribution, central tendency, and variability of the data using timeseries analysis.
