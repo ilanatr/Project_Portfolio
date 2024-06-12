@@ -62,10 +62,6 @@ Data Source: [Kaggle CO2 emissions: 1960-2019](https://www.kaggle.com/datasets/u
 
 [Country CO2 Emissions EDA](https://github.com/ilanatr/Project_Portfolio/blob/main/Desc_stats_and_data_viz.ipynb)
 
-*****Descriptive Statistics and Data Visualisation Tool*****
-
-Objective: Create a Python script that computes descriptive statistics for a given dataset and visualizes these statistics through various charts and graphs. The tool should help in understanding the distribution, central tendency, and variability of data.
-
 Requirements:
 - Use pandas, numpy, matplotlib and seaborn libraries
 - Compute basic stats (mean, median, mode, sd, quartiles)
@@ -74,5 +70,15 @@ Requirements:
 
 This tool  computes descriptive statistics for a dataset on CO2 emissions by countries and visualises these statistics through various charts and graphs. 
 The tool helps in understanding the distribution, central tendency, and variability of the data using timeseries analysis.
+
+### 6. Linear Regression analysis on Algerian Forest Fires
+
+[Algerian Forest Fires](https://github.com/ilanatr/Project_Portfolio/blob/main/forest_fires_algeria.ipynb)
+
+Objective:
+- To examine the relationship between specific variables and forest fires in Algeria
+
+Requirements:
+- Use pandas, numpy, matplotlib, sklearn and seaborn libraries
 
 
