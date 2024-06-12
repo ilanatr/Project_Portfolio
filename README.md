@@ -58,7 +58,7 @@ Output: The SQL file implements queries to create and read the database in order
 
 Objective: carry out exploratory data analysis of CO2 emissions for countries 
 
-Data Source:[Kaggle CO2 emissions: 1960-2019](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country)
+Data Source: [Kaggle CO2 emissions: 1960-2019](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country)
 
 [Country CO2 Emissions EDA](https://github.com/ilanatr/Project_Portfolio/blob/main/Desc_stats_and_data_viz.ipynb)
 
