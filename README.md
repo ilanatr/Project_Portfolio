@@ -35,7 +35,7 @@ Method:
 
 ### 3. Data visualisation of car data
 
-[Data Visualisation] (https://github.com/ilanatr/Project_Portfolio/blob/main/data_viz_task.ipynb)
+[Data Visualisation](https://github.com/ilanatr/Project_Portfolio/blob/main/data_viz_task.ipynb)
 
 Objective:
 - To create and interpret simple data visualisations for car manufacturer data
@@ -68,7 +68,7 @@ Objective: carry out exploratory data analysis of CO2 emissions for countries
 
 Data Source: [Kaggle CO2 emissions: 1960-2019](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country)
 
-[Country CO2 Emissions EDA](https://github.com/ilanatr/Project_Portfolio/blob/main/Desc_stats_and_data_viz.ipynb)
+Notebook: [Country CO2 Emissions EDA](https://github.com/ilanatr/Project_Portfolio/blob/main/Desc_stats_and_data_viz.ipynb)
 
 Requirements:
 - Use pandas, numpy, matplotlib and seaborn libraries
