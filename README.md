@@ -103,7 +103,7 @@ Method:
 
 Results: Reveals weak correlations between meteorological factors (temperature, wind, and relative humidity) and the area burned by forest fires. Despite applying Linear Regression models, the predictive accuracy was low, indicating that predicting forest fire areas is complex and may require more advanced models or additional data for better accuracy.
 
-#### 7. Socioeconomic Country Clustering with K-Means
+### 7. Socioeconomic Country Clustering with K-Means
 
 [K Means Clustering of Countries by Socio-Economic Features](https://github.com/ilanatr/Project_Portfolio/blob/main/Socioeconomic_Country_Clustering.ipynb)
 Objective:
