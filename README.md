@@ -103,3 +103,19 @@ Method:
 
 Results: Reveals weak correlations between meteorological factors (temperature, wind, and relative humidity) and the area burned by forest fires. Despite applying Linear Regression models, the predictive accuracy was low, indicating that predicting forest fire areas is complex and may require more advanced models or additional data for better accuracy.
 
+#### 7. Socioeconomic Country Clustering with K-Means
+
+[K Means Clustering of Countries by Socio-Economic Features](https://github.com/ilanatr/Project_Portfolio/blob/main/Socioeconomic_Country_Clustering.ipynb)
+Objective:
+- To group countries using socio-economic and health factors to determine the development status of the country.
+
+Requirements:
+- Use pandas, numpy, matplotlib, sklearn and seaborn libraries
+
+Method:
+The `Socioeconomic_Country_Clustering.ipynb` notebook applies K-means clustering to group countries based on various socioeconomic indicators. The analysis involves:
+- **Data Preprocessing**: Cleaning and preparing the dataset for analysis.
+- **Feature Selection**: Selecting relevant socioeconomic indicators for clustering.
+- **K-means Clustering**: Applying the K-means algorithm to identify distinct clusters of countries.
+- **Cluster Analysis**: Interpreting the clusters and visualizing the results using various plots.
+
