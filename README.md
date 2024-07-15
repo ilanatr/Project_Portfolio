@@ -5,7 +5,7 @@ It includes different code tasks, which are outlined in more detail below.
 
 ### 1. Organising and Filtering Datasets
 
-[Organising and Filtering Datasets](https://github.com/ilanatr/Project_Portfolio/blob/main/Data_Filtering_Organising.ipynb)
+[Organising and Filtering Datasets](https://github.com/ilanatr/Project_Portfolio/blob/main/1.%20Data_Filtering_Organising.ipynb)
 
 Objective: Develop a Python script that filters and organizes a dataset based on specific criteria.
 
@@ -22,7 +22,7 @@ The file Data_Filtering_Organising includes three key user-defined functions:
 
 ### 2. Rock Paper Scissors Game
 
-[Rock, Paper, Scissors](https://github.com/ilanatr/Project_Portfolio/blob/main/Rock%2C%20Paper%2C%20Scissors%20Game)
+[Rock, Paper, Scissors Game](https://github.com/ilanatr/Project_Portfolio/blob/main/2.%20Rock%2C%20Paper%2C%20Scissors%20Game)
 
 Objective:
 - To create a programme that plays the rock, paper, scissors game which seeks input from the user and a random choice from the computer to determine a winner.
@@ -35,7 +35,7 @@ Method:
 
 ### 3. Data visualisation of car data
 
-[Data Visualisation](https://github.com/ilanatr/Project_Portfolio/blob/main/Data%20Vis_Manufacturer%20Data.ipynb)
+[Data Visualisation](https://github.com/ilanatr/Project_Portfolio/blob/main/3.%20Data%20Vis_Manufacturer%20Data.ipynb)
 
 Objective:
 - To create and interpret simple data visualisations for car manufacturer data
@@ -55,7 +55,7 @@ Results:
 
 ### 4. Analyse Customer Data with SQL
 
-[SQL Customer Data Analysis](https://github.com/ilanatr/Project_Portfolio/blob/main/Analyse%20Customer%20DVD%20Rentals%20in%20SQL)
+[SQL Customer Data Analysis](https://github.com/ilanatr/Project_Portfolio/blob/main/4.%20Analyse%20Customer%20DVD%20Rentals%20in%20SQL)
 
 Objective:
 - To analyse the SQL Lite Sakila database which includes data on DVD rental stores globally.
@@ -68,7 +68,7 @@ Objective: carry out exploratory data analysis of CO2 emissions for countries
 
 Data Source: [Kaggle CO2 emissions: 1960-2019](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country)
 
-Notebook: [Country CO2 Emissions EDA](https://github.com/ilanatr/Project_Portfolio/blob/main/Country%20CO2%20Emissions.ipynb)
+Notebook: [Country CO2 Emissions EDA](https://github.com/ilanatr/Project_Portfolio/blob/main/5.%20Country%20CO2%20Emissions.ipynb)
 
 Requirements:
 - Use pandas, numpy, matplotlib and seaborn libraries
@@ -87,7 +87,7 @@ Insights:
 
 ### 6. Linear Regression analysis on Algerian Forest Fires
 
-[Algerian Forest Fires](https://github.com/ilanatr/Project_Portfolio/blob/main/Algerian%20Forest%20Fires.ipynb)
+[Algerian Forest Fires](https://github.com/ilanatr/Project_Portfolio/blob/main/6.%20Algerian%20Forest%20Fires.ipynb)
 
 Objective:
 - To examine the relationship between specific variables and forest fires in Algeria
@@ -105,7 +105,7 @@ Results: Reveals weak correlations between meteorological factors (temperature, 
 
 ### 7. Socioeconomic Country Clustering with K-Means
 
-[K Means Clustering of Countries by Socio-Economic Features](https://github.com/ilanatr/Project_Portfolio/blob/main/Socioeconomic_Country_Clustering.ipynb)
+[K Means Clustering of Countries by Socio-Economic Features](https://github.com/ilanatr/Project_Portfolio/blob/main/7.%20Socioeconomic_Country_Clustering.ipynb)
 Objective:
 - To group countries using socio-economic and health factors to determine the development status of the country.
 
